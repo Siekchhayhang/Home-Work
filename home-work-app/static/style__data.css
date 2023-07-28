@@ -1,0 +1,72 @@
+h1{
+    
+  font-size:28px;
+  text-transform: uppercase;
+}
+.h2{
+  color:2F5A78;
+  font-size:20px;
+}
+#position{
+  font-size:18px;
+  font-weight: bold;
+}
+
+#contact-form{
+  padding: auto;
+}
+#email{
+  border-radius: 5px;
+  margin-left: 3px;
+  margin-bottom: 5px;
+}
+#name{
+  border-radius: 5px;
+  bottom: 1000px;
+  margin-bottom: 5px; 
+}
+
+.send{
+  background-color: #4CAF50;  
+  color: white;  
+  padding: 16px 20px;  
+  margin: 8px 0;  
+  border: none;  
+  cursor: pointer;  
+  opacity: 0.9;  
+  border-radius: 10px;
+  width: 100px;
+}
+.message{
+  border-radius: 5px;
+}
+
+.summary{
+  font-size:16px;
+  line-height: 20px;
+  text-align: left;
+}
+.picture{
+  border-radius: 10px;
+}
+.body{
+  font-family:Arial;
+  
+}
+
+header{
+  text-align: center;
+}
+#copyright{
+  text-align: center;
+}
+body{  
+  font-family: Calibri, Helvetica, sans-serif;  
+  background-color: pink;
+  width: 500px;
+  margin: auto;
+} 
+.container {  
+  padding: 25px;  
+  background-color: lightblue;
+}   

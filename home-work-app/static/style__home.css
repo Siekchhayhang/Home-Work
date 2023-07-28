@@ -1,0 +1,42 @@
+
+  body{  
+    font-family: Calibri, Helvetica, sans-serif;  
+    background-color: pink;
+    width: 500px;
+    margin: auto;
+  }  
+  .container {  
+    padding: 50px;  
+    background-color: lightblue;
+  }  
+    
+ 
+   div {  
+              padding: 10px 0;  
+           }  
+  hr {  
+    border: 1px solid #f1f1f1;  
+    margin-bottom: 25px;  
+  }  
+  .groupbtb{
+    color: white;  
+    cursor: pointer;  
+  }
+  .groupbtb:hover{
+    opacity: 0.9;
+  }
+  .submitbtb{
+    background-color: #4CAF50;  
+    color: white;  
+    padding: 16px 20px;  
+    margin: 8px 0;  
+    border: none;  
+    cursor: pointer;  
+    opacity: 0.9;  
+    border-radius: 10px;
+    width: 100px;
+  }
+  .container__h2, .container{
+    text-align: center;
+  }
+  
